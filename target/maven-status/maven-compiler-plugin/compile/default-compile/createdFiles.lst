@@ -1,0 +1,6 @@
+com\yerke\entity\TaskStatus.class
+com\yerke\controller\TaskController.class
+com\yerke\entity\Task.class
+com\yerke\repository\TaskRepository.class
+com\yerke\service\TaskService.class
+com\yerke\TaskManagerApplication.class
